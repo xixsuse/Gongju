@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="emailInput">#313131</color>
+    <color name="pwInput">#A0A0A0</color>
+    <color name="loginBtn">#3DB693</color>
+    <color name="line312">#D1D1D1</color>
+    <color name="colorlogintitle">#313131</color>
+    <color name="colorFaceBookBtn">#3b5998</color>
+    <color name="colorKaKaoBtn">#FFEB00</color>
+    <color name="colorFaceBookBtn_text">#FFFFFF</color>
+    <color name="colorKaKaoBtn_text">#3C1E1E</color>
+    <color name="zxing_result_text">#FFFFFF</color>
+    <color name="zxing_result_minor_text">#ffffff</color>
+    <color name="zxing_camera_background">#222222</color>
+    <color name="zxing_camera_background2">#202020</color>
+    <color name="stdColorGreen">#3DB693</color>
+    <color name="stdColorWhite">#ffffff</color>
+    <color name="stdColorRed">#FF4081</color>
+    <color name="stdColorRed2">#FF0658</color>
+    <color name="stdColorBlack">#313131</color>
+    <color name="stdColorGrey">#707070</color>
+
+    <color name="stdColorLine">#d1d1d1</color>
+    <color name="stdColorHint">#b5b5b5</color>
+    <color name="stdColorHint2">#A0A0A0</color>
+    <color name="town_msg_default">#313131</color>
+    <color name="review_title_hint">#A0A0A0</color>
+    <color name="review_spinner_itme_color">#313131</color>
+    <color name="stdColorBlack2">#535353</color>
+    <color name="stdColorGrey2">#898989</color>
+    <color name="navheader_top_bg">#dcdcdc</color>
+    <!-- Common usable Color Resource-->
+    <color name="common_bg_color1">#EFEFF4</color>
+    <color name="common_bg_color2">#FFFFFF</color>
+    <!-- MainFragment Fragment Color Resource-->
+    <color name="toolbar_bg_color">#f6f6f6</color>
+    <color name="toolbar_cnt_text_color">#4b4b4b</color>
+    <color name="toolbar_second_text_color">#4b4b4b</color>
+    <!-- MainFragment Fragment in Recycler View list Color Resource-->
+    <color name="stamp_list_item_text_color_off">#000000</color>
+    <color name="stamp_list_item_text_color_on">#FFFFFF</color>
+    <color name="stamp_list_item_distance_text_color">#666666</color>
+    <!-- ImageFragment in TextView Color Resource-->
+    <color name="town_subtitle_text_color">#000000</color>
+    <color name="image_description_contents_text_color">#000000</color>
+    <color name="image_indicator_selected_color">#00CCCC</color>
+    <color name="common_line_color">#ceced2</color>
+    <color name="effect_myinfo_account_delete_common">#FE3F35</color>
+    <color name="stamp_list_item_text_color_alpha_off">#99000000</color>
+    <color name="stamp_list_item_text_color_alpha_on">#99ffffff</color>
+    <color name="text_dark_common">#818181</color>
+    <color name="rank_no_textview_color">#00cccc</color>
+    <color name="user_stamp_cnt_textview_color">#9a9a9a</color>
+    <color name="name_text_view">#000000</color>
+    <color name="rankheader_bg">#f2f2f2</color>
+    <color name="main_color">#00c3e5</color>
+
+    <color name="alpha_background">#00000000</color>
+    <color name="btn_check_duplicate_color">#00c3e5</color>
+    <color name="btn_sendjoin_textColor">#ffffff</color>
+    <color name="social_join_confirm_textview_textColor">#666666</color>
+
+    <color name="app_main_color">#00c3e5</color>
+    <color name="account_accountmanage_confirm_textview_textColor">#666666</color>
+    <color name="account_accountmanage_password_input_hint_color">#9A9A9A</color>
+    <color name="account_accountmanage_password_input_textColor">#000</color>
+
+
+</resources>
