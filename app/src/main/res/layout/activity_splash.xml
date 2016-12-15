@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/img_splash_bg"
-    tools:context="com.thatzit.kjw.stamptour_kyj_client.splash.SplashActivity">
+    tools:context="com.thatzit.kjw.stamptour_gongju_client.splash.SplashActivity">
 
         <RelativeLayout
             android:layout_width="match_parent"
