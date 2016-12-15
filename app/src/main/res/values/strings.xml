@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">포천\n스탬프투어</string>
+    <string name="app_name">공주\n스탬프투어</string>
     <!--OAUTH SERVICE KEY-->
     <string name="facebook_app_id">1196868970378253</string>
     <string name="kakao_app_key">527f0df26e167313b802571444d94111</string>
@@ -8,7 +8,7 @@
     <string name="nick_patten">^[a-zA-Z0-9가-힣\\u318D\\u119E\\u11A2\\u2022\\u2025a\\u00B7\\uFE55]{2,6}+$</string>
 
     <!-- PreferenceManager -->
-    <string name="preference_private_name">stamp_tour_kyoungju</string>
+    <string name="preference_private_name">stamp_tour_gongju</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>

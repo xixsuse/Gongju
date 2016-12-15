@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.thatzit.kjw.stamptour_kyj_client"
+        applicationId "com.thatzit.kjw.stamptour_gongju_client"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 16
