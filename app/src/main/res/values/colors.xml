@@ -9,7 +9,7 @@
     <color name="colorAccent">#4CAF50</color>
     <color name="emailInput">#313131</color>
     <color name="pwInput">#A0A0A0</color>
-    <color name="loginBtn">#3DB693</color>
+    <color name="loginBtn">#e5a200</color>
     <color name="line312">#D1D1D1</color>
     <color name="colorlogintitle">#313131</color>
     <color name="colorFaceBookBtn">#3b5998</color>
@@ -67,7 +67,7 @@
     <color name="btn_sendjoin_textColor">#ffffff</color>
     <color name="social_join_confirm_textview_textColor">#666666</color>
 
-    <color name="app_main_color">#00c3e5</color>
+    <color name="app_main_color">#e5a200</color>
     <color name="account_accountmanage_confirm_textview_textColor">#666666</color>
     <color name="account_accountmanage_password_input_hint_color">#9A9A9A</color>
     <color name="account_accountmanage_password_input_textColor">#000</color>

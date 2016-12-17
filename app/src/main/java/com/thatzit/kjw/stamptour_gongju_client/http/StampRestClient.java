@@ -11,8 +11,7 @@ import com.loopj.android.http.SyncHttpClient;
  * Created by kjw on 16. 8. 20..
  */
 public class StampRestClient {
-    public static final String BASE_URL = "http://stamptourpochon.mybluemix.net/";
-//    public static final String BASE_URL = "http://stamptourpochondev.mybluemix.net/";
+    public static final String BASE_URL = "http://stamptourgongju.mybluemix.net/";
     public static AsyncHttpClient syncHttpClient= new SyncHttpClient();
     public static AsyncHttpClient client = new AsyncHttpClient();
 

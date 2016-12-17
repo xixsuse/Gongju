@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">공주\n스탬프투어</string>
     <!--OAUTH SERVICE KEY-->
-    <string name="facebook_app_id">1196868970378253</string>
-    <string name="kakao_app_key">527f0df26e167313b802571444d94111</string>
+    <string name="facebook_app_id">217422435378299</string>
+    <string name="kakao_app_key">c382ee5f3906b73ac72df987bdec71da</string>
     <string name="pass_patten">^(?=.*[a-z]+)(?=.*[0-9]+).{6,16}$</string>
     <string name="email_patten">[\\w\\~\\-\\.]+@[\\w\\~\\-]+(\\.[\\w\\~\\-]+)+</string>
     <string name="nick_patten">^[a-zA-Z0-9가-힣\\u318D\\u119E\\u11A2\\u2022\\u2025a\\u00B7\\uFE55]{2,6}+$</string>
@@ -191,10 +191,10 @@
     <string name="terms_toolbar_title">개인정보취급방침</string>
     <string name="main_list_item_date">날짜</string>
     <string name="main_list_item_number">순서</string>
-    <string name="FB_Share_Title">포천스탬프투어</string>
-    <string name="FB_Share_Description">포천을 여행중입니다.</string>
-    <string name="FB_Share_APPUrl">https://play.google.com/store/apps/details?id=com.thatzit.kjw.stamptour_kyj_client</string>
-    <string name="FB_Share_Title2">포천스탬프투어로 이동</string>
+    <string name="FB_Share_Title">공주스탬프투어</string>
+    <string name="FB_Share_Description">공주을 여행중입니다.</string>
+    <string name="FB_Share_APPUrl">https://play.google.com/store/apps/details?id=com.thatzit.kjw.stamptour_gongju_client</string>
+    <string name="FB_Share_Title2">공주스탬프투어로 이동</string>
     <string name="beverb_string">"님은 "</string>
     <string name="out_of_string">"명 중 "</string>
     <string name="rank_string">위</string>

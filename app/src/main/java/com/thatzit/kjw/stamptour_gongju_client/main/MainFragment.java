@@ -219,7 +219,7 @@ public class MainFragment extends Fragment implements MainRecyclerAdapter.OnItem
                                 break;
                             case "en": res_grade = resultData.getString("grade_en");
                                 break;
-                            default:  res_grade = resultData.getString("grade");
+                            default:  res_grade = resultData.getString("grade_en");
                                 break;
                         }
 //                        String res_grade = resultData.getString("grade");
@@ -276,7 +276,7 @@ public class MainFragment extends Fragment implements MainRecyclerAdapter.OnItem
                                 break;
                             case "en": array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region_en"),town.getString("rank_no")));
                                 break;
-                            default: array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region"),town.getString("rank_no")));
+                            default: array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region_en"),town.getString("rank_no")));
                                 break;
                         }
                     } catch (JSONException e) {

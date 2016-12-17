@@ -8,8 +8,8 @@ android {
         applicationId "com.thatzit.kjw.stamptour_gongju_client"
         minSdkVersion 19
         targetSdkVersion 23
-        versionCode 16
-        versionName "2.5"
+        versionCode 1
+        versionName "1.0"
     }
     buildTypes {
         release {
