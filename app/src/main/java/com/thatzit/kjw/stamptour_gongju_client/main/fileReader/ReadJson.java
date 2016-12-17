@@ -98,7 +98,7 @@ public class ReadJson {
         switch (locale){
             case "ko": return "StampTour_gongju/contents/contents/kr.json";
             case "en": return "StampTour_gongju/contents/contents/eng.json";
-            default: return "StampTour_gongju/contents/contents/kr.json";
+            default: return "StampTour_gongju/contents/contents/eng.json";
         }
     }
     public void setReadEventListener(ReadEventListener readEventListener){

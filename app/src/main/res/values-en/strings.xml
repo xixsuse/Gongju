@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Pocheon\nStampTour</string>
+    <string name="app_name">Gongju\nStampTour</string>
     <!--OAUTH SERVICE KEY-->
-    <string name="facebook_app_id">1196868970378253</string>
-    <string name="kakao_app_key">527f0df26e167313b802571444d94111</string>
+    <string name="facebook_app_id">217422435378299</string>
+    <string name="kakao_app_key">c382ee5f3906b73ac72df987bdec71da</string>
     <string name="pass_patten">^(?=.*[a-z]+)(?=.*[0-9]+).{6,16}$</string>
     <string name="email_patten">[\\w\\~\\-\\.]+@[\\w\\~\\-]+(\\.[\\w\\~\\-]+)+</string>
     <string name="nick_patten">^[a-zA-Z0-9가-힣\\u318D\\u119E\\u11A2\\u2022\\u2025a\\u00B7\\uFE55]{2,6}+$</string>
 
     <!-- PreferenceManager -->
-    <string name="preference_private_name">stamp_tour_kyoungju</string>
+    <string name="preference_private_name">stamp_tour_gongju</string>
     <!-- Strings related to login -->
 
     <string name="prompt_email">Email</string>
@@ -302,10 +302,10 @@
     <string name="terms_toolbar_title">Privacy Policy</string>
     <string name="main_list_item_date">Date</string>
     <string name="main_list_item_number">Order</string>
-    <string name="FB_Share_Title">Pocheon StampTour</string>
-    <string name="FB_Share_Description">Travelling Pocheon</string>
-    <string name="FB_Share_Title2">Move to Pocheon StampTour</string>
-    <string name="FB_Share_APPUrl">https://play.google.com/store/apps/details?id=com.thatzit.kjw.stamptour_shinan_client</string>
+    <string name="FB_Share_Title">Gongju StampTour</string>
+    <string name="FB_Share_Description">Travelling Gongju</string>
+    <string name="FB_Share_Title2">Move to Gongju StampTour</string>
+    <string name="FB_Share_APPUrl">https://play.google.com/store/apps/details?id=com.thatzit.kjw.stamptour_gongju_client</string>
     <string name="beverb_string">" is "</string>
     <string name="out_of_string">" out of "</string>
     <string name="rank_string"> </string>

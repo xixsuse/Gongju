@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements PushMessageChange
         self = this;
         try {
             PackageInfo info = getPackageManager().getPackageInfo(
-                    "com.thatzit.kjw.stamptour_kyj_client",
+                    "com.thatzit.kjw.stamptour_gongju_client",
                     PackageManager.GET_SIGNATURES);
             for (Signature signature : info.signatures) {
                 MessageDigest md = MessageDigest.getInstance("SHA");
@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity implements PushMessageChange
                                 break;
                             case "en": array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region_en"),town.getString("rank_no")));
                                 break;
-                            default: array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region"),town.getString("rank_no")));
+                            default: array.add(new TempTownDTO(town.getString("TOWN_CODE"),town.getString("Nick"),town.getString("CheckTime"),town.getString("region_en"),town.getString("rank_no")));
                                 break;
                         }
 

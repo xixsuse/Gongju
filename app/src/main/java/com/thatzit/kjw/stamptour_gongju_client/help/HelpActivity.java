@@ -40,7 +40,7 @@ public class HelpActivity extends AppCompatActivity implements View.OnClickListe
         listData.add(new HelpFragment().newInstance("1"));
         listData.add(new HelpFragment().newInstance("2"));
         listData.add(new HelpFragment().newInstance("3"));
-
+        listData.add(new HelpFragment().newInstance("4"));
         pager.setAdapter(new HelpViewPagerAdapter(getSupportFragmentManager(), listData));
         indicator.setViewPager(pager);
     }

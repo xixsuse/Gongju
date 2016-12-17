@@ -58,6 +58,8 @@ public class HelpFragment extends Fragment {
                 return R.drawable.tutorial2;
             case 3:
                 return R.drawable.tutorial3;
+            case 4:
+                return R.drawable.tutorial4;
             default:
                 return R.drawable.tutorial1;
         }
